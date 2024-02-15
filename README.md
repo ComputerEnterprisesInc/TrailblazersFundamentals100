@@ -6,6 +6,12 @@ The GitHub Copilot Fundamentals 100 Workshop is designed for developers who want
 ## Please check out this [lab guide](https://experience.cloudlabs.ai/#/labguidepreview/b24dc63a-29e6-4a26-9f95-4737c8465a34) to follow-along and complete the self-paced labs.
 *_please note that this lab handout focuses on the use of a VM, rather than using a VM, you will be using your own GitHub account, GitHub Copilot license, and IDE as well as this GitHub repository_
 
+## Some Tips:
+- Start with Lab 01: Task 2!
+- You will be using your own GitHub account, don't worry about logging in using VM credentials (you don't have one!)
+- Don't worry about saving files into the **CloudLabs** folder
+- You are not required to validate _any_ of your labs! No need to navigate to a **Lab Validation page** (you don't have one!)
+
 ## Syllabus
 
 ### Introduction to GitHub Copilot
